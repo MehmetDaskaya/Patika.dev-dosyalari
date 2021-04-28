@@ -1,0 +1,14 @@
+body {
+    background-color: orange;
+}
+
+ul {
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
+}
+
+h1{
+    color:rgb(255, 255, 255)
+}
+
